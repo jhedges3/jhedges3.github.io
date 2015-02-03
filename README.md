@@ -3,3 +3,6 @@
 
 ## this will b amazing at some point
 hurray
+
+### emoji is cool
+😉
